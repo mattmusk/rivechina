@@ -1,0 +1,10 @@
+{
+    "scripts": {
+      "build": "gitbook build"
+    },
+    "devDependencies": {
+      "gitbook-cli": "2.1.2",
+      "graceful-fs": "4.2.0"
+    }
+  }
+  
