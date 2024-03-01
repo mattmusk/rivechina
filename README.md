@@ -1,4 +1,5 @@
-# Introduction
 
-Welcome to the Rive Docs. We've split this documentation into the sub-sections below. If you can't find the information you're looking for or have questions for us, join us on Twitter, Discord, or contact us by filling out this form.
+https://github.com/GitbookIO/gitbook/blob/master/docs/setup.md
+
+https://help.rive.app/getting-started/introduction
 
