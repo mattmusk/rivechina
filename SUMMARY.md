@@ -1,5 +1,5 @@
 # Summary
-* [建站须知](README.md)
+* [前言](README.md)
 * 立刻开始
   * [介绍](introduction.md)
   * [问答](FAQ.md)
